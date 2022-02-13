@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: For a complete list of publications, please visit my [scholar](https://scholar.google.com/citations?user=o-Q9KhwAAAAJ) page.
+description: For a complete list of publications, please visit my scholar page.
 years: [2018, 2017]
 nav: true
 ---
