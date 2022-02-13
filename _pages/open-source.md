@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Source Projects
+title: open source
 permalink: /projects/
 description: A list of interesting frameworks that I contribute to!
 nav: true
