@@ -1,6 +1,6 @@
 ---
 layout: page
-url: https://drive.google.com/file/d/1DOU63G5d9XYlhJVwsMpRzcn4nf7nJAim/view
+permalink: assets/pdf/Vignesh_CV_Full.pdf
 title: cv
 description: Curriculum Vitae.
 nav: true
