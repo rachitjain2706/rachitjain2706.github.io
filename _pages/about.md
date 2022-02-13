@@ -6,7 +6,7 @@ subtitle: Masters in Computer Science at <a href='https://cs.nyu.edu/home/index.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address:
 
 news: false  # includes a list of news items
