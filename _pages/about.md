@@ -19,3 +19,5 @@ I am a graduate student at [NYU Courant Institute of Mathematical Sciences](http
 Previously, I was associated with [IBM](https://www.ibm.com/us-en/) as a software developer where I worked on dependency-graph based event correlation frameworks for performance analysis of data lakes. 
 
 I completed my Bachelors in Electronics and Communication Engineering from the [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/). During my undergraduate studies, I got the opportunity to work with amazing researchers from the [Indian Institute of Technology Delhi](https://home.iitd.ac.in/) and the [Indian Institute of Science](https://iisc.ac.in/) on activity recognition, document image super-resolution and audio classification.
+
+I am a graduate student at [NYU Courant Institute of Mathematical Sciences](https://cs.nyu.edu/home/index.html). I completed my undergraduate degree 

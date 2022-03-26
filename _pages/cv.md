@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: assets/pdf/Vignesh_CV_Full.pdf
+permalink: assets/pdf/Rachit Jain.pdf
 title: cv
 description: Curriculum Vitae.
 nav: true
